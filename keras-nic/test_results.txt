@@ -1,0 +1,12 @@
+Descriptions: train=30000, test=5000
+Photos: train=6000, test=1000
+Vocabulary Size: 7614
+Description Length: 34
+Loaded model from disk
+3482974845_db4f16befa
+Actual: startseq black dog with his pink tongue sticking out running on the beach with white dog wearing red collar endseq
+Actual: startseq white dog is following black dog along the beach endseq
+Actual: startseq two dogs run across the barren ground endseq
+Actual: startseq two dogs running on the beach endseq
+Actual: startseq two terrier dogs frolic on the beach endseq
+Predicted:  race dog and white poodle and one splashes through some water and sand in the foreground 

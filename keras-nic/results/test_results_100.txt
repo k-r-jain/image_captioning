@@ -1,0 +1,880 @@
+3482974845_db4f16befa
+Predicted: startseq two black dogs are playing on the beach endseq
+Actual:    startseq white dog is following black dog along the beach endseq
+Predicted: startseq two black dogs are playing on the beach endseq
+Actual:    startseq two dogs run across the barren ground endseq
+Predicted: startseq two black dogs are playing on the beach endseq
+Actual:    startseq two dogs running on the beach endseq
+Predicted: startseq two black dogs are playing on the beach endseq
+Actual:    startseq two terrier dogs frolic on the beach endseq
+Predicted: startseq two black dogs are playing on the beach endseq
+3718964174_cb2dc1615e
+Actual:    startseq woman in blue sweater with blue scarf around her head endseq
+Predicted: startseq woman with paint on her head and headset is talking at protest range endseq
+909808296_23c427022d
+Actual:    startseq brown and black dog on leash is sniffed by black and white dog endseq
+Predicted: startseq two dogs are playing together on the grass endseq
+543007912_23fc735b99
+Actual:    startseq twin girls in orange shirts and green pants are jumping endseq
+Predicted: startseq two little girls are sitting on the grass posing for the seat endseq
+3220161734_77f42734b9
+Actual:    startseq blond haired child in black outfit and red belt doing karate endseq
+Predicted: startseq the boy is wading through skating area endseq
+270816949_ffad112278
+Actual:    startseq man on horseback on grassy field in front of mountains endseq
+Predicted: startseq man in red shirt is sitting on the giant rock endseq
+1339596997_8ac29c1841
+Actual:    startseq three females wearing head scarves standing together endseq
+Predicted: startseq group of people most birthday and pose on couch endseq
+350443876_c9769f5734
+Actual:    startseq little baby climbing up the ladder after someone endseq
+Predicted: startseq two children are sitting in the grass with their arms wide paper in their mouths endseq
+3692593096_fbaea67476
+Actual:    startseq airplane emitting heavy red colored smoke endseq
+Predicted: startseq man without shirt and coat sitting on rock formation endseq
+3239021459_a6b71bb400
+Actual:    startseq boy riding sled off of snow ramp endseq
+Predicted: startseq snowboarder is in the air which is flipping his snowboard endseq
+2608289957_044849f73e
+Actual:    startseq baby sits on tire and holds toy endseq
+Predicted: startseq young boy with blue eyes is eating cookie of his shoulder endseq
+2594042571_2e4666507e
+Actual:    startseq boy with an orange shirt smiles while boy in blue shirt looks on endseq
+Predicted: startseq man and woman are sitting in front of restaurant with obama bush endseq
+2599444370_9e40103027
+Actual:    startseq black dog paddles behind black cat in body of water endseq
+Predicted: startseq black dog is running through water with stick in his mouth endseq
+3245070961_8977fdd548
+Actual:    startseq boy in blue shirt runs while smiling endseq
+Predicted: startseq boy in red shirt is climbing rock endseq
+2460797929_66446c13db
+Actual:    startseq group of boys are wearing yellow life vests and are on makeshift raft endseq
+Predicted: startseq man in speedo and walking on the beach endseq
+997722733_0cb5439472
+Actual:    startseq man in pink shirt climbs rock face endseq
+Predicted: startseq man without shirt is crosscountry rock climbing endseq
+3639967449_137f48b43d
+Actual:    startseq two boys are sitting in front of structure eating popsicles endseq
+Predicted: startseq woman and young boy are sitting on the ground reading against each other endseq
+3259002340_707ce96858
+Actual:    startseq black dog with purple collar and black leash runs in the grass endseq
+Predicted: startseq black dog is carrying blue stick in his mouth as it runs from the grass endseq
+113678030_87a6a6e42e
+Actual:    startseq snowboarder sits on slope with skiers and boarders nearby endseq
+Predicted: startseq two people are rowing in the water endseq
+3116769029_f5a76f04ba
+Actual:    startseq boy in tan coat throws some red leaves at the camera endseq
+Predicted: startseq young boy in pink dress peering at the bubble from her face endseq
+2860872588_f2c7b30e1a
+Actual:    startseq black and blonde dog are either playing or fighting with each other endseq
+Predicted: startseq two dogs are fighting on bed endseq
+405615014_03be7ef618
+Actual:    startseq man in lime green vest directs traffic endseq
+Predicted: startseq man with pierced hair is asking at man with white tshirt endseq
+2748729903_3c7c920c4d
+Actual:    startseq man crashes into the water with his parachute endseq
+Predicted: startseq two people are planting golf frame endseq
+3100251515_c68027cc22
+Actual:    startseq crowd of people wearing jackets and holding signs endseq
+Predicted: startseq group of people standing in front of building endseq
+3514019869_7de4ece2a5
+Actual:    startseq black and brown dog jumping over two white and purple stiped poles endseq
+Predicted: startseq black sheep on the beach endseq
+1714316707_8bbaa2a2ba
+Actual:    startseq boy in red jacket smacks snow covered tree with stick endseq
+Predicted: startseq two men draw on floating diving set to ropes endseq
+476759700_8911f087f8
+Actual:    startseq man carrying sign that says free hug along the sidewalk endseq
+Predicted: startseq boy in red mittens his throwing crab at dried plate endseq
+929679367_ff8c7df2ee
+Actual:    startseq beagle is playing with tennis ball endseq
+Predicted: startseq german shepherd is jumping into the air to catch tennis ball endseq
+3080056515_3013830309
+Actual:    startseq boy is whispering to girl wearing red and white hat and scarf endseq
+Predicted: startseq man with pierced tongue over his face endseq
+1679617928_a73c1769be
+Actual:    startseq basset hound is leashed to the rearview mirror of yellow and white vehicle endseq
+Predicted: startseq man sits on bus with flag in front of crowd endseq
+2885387575_9127ea10f1
+Actual:    startseq black and grey dog is playing with blue ball outside endseq
+Predicted: startseq dog catching tennis ball in his mouth endseq
+771048251_602e5e8f45
+Actual:    startseq blonde child is being bitten on the nose by little orange kitten endseq
+Predicted: startseq dog is shaking off from bed on his chest and another dog out of her endseq
+3095225232_2e6e6dc92e
+Actual:    startseq people are standing on an escalator moving up endseq
+Predicted: startseq man in black jacket is sitting on bench with his hand around book endseq
+2603792708_18a97bac97
+Actual:    startseq bunch of people on the beach at sunset endseq
+Predicted: startseq two people are wading in river near water fountain endseq
+3364861247_d590fa170d
+Actual:    startseq group of girls and guys hang out one is making sad face endseq
+Predicted: startseq two girls are sitting in front of christmas vending machine endseq
+3767841911_6678052eb6
+Actual:    startseq baby girl in an orange dress gets wet as she stands next to water sprinkler endseq
+Predicted: startseq young boy in pullup is covered in marker endseq
+3482062809_3b694322c4
+Actual:    startseq group of tourists stand around as lady puts her hand near the mouth of statue endseq
+Predicted: startseq two children are sitting on rocks looking over statue endseq
+424416723_19c56cb365
+Actual:    startseq black dog jumping endseq
+Predicted: startseq dog runs across the grass endseq
+3159995270_17334ccb5b
+Actual:    startseq female skier in green with pink flowers hat skiing endseq
+Predicted: startseq surfer is riding surfboard on top of breaking wave endseq
+460935487_75b2da7854
+Actual:    startseq black and white dog is running up path towards some potted plants endseq
+Predicted: startseq two dogs are playing together in the grass endseq
+2950905787_f2017d3e49
+Actual:    startseq man is climbing the mountain endseq
+Predicted: startseq man in sunglasses and sandals is standing on mountain covered mountain with mountain looking out to her photo endseq
+3123351642_3794f2f601
+Actual:    startseq snowboarder in bright green performing jump at competition endseq
+Predicted: startseq snowboarder in midair endseq
+3601843201_4809e66909
+Actual:    startseq man racing on motorbike endseq
+Predicted: startseq motorcycle rider starts to lots to fix roof colors endseq
+2729655904_1dd01922fb
+Actual:    startseq two boys and two dogs are playing in the sand and water at the seashore endseq
+Predicted: startseq dog running along the beach endseq
+2295750198_6d152d7ceb
+Actual:    startseq girl is standing on one leg in the middle of the field endseq
+Predicted: startseq two people are rowing in the water endseq
+2648165716_02e2e74fd6
+Actual:    startseq boy swings plastic bat endseq
+Predicted: startseq two children are climbing on trampoline in front of crowd endseq
+3399284917_721aefe2a7
+Actual:    startseq child on kiddie swing being pushed by woman endseq
+Predicted: startseq young boy is swinging at water fountain endseq
+434792818_56375e203f
+Actual:    startseq couple looking at red sculpture endseq
+Predicted: startseq man in red shirt rappelling water from rock endseq
+3121521593_18f0ec14f7
+Actual:    startseq smiling girl in glasses and bluegray scarf with smiling girl in black coat leaning on her shoulder endseq
+Predicted: startseq man with glasses and marker endseq
+1387785218_cee67735f5
+Actual:    startseq child pushes doll in baby carriage endseq
+Predicted: startseq little girl in pink overalls is climbing on red porch endseq
+3143982558_9e2d44c155
+Actual:    startseq baby in pink striped clothing is sitting near an older lady wearing red and black endseq
+Predicted: startseq child in pink sweater blowing water in the air endseq
+2870875612_2cbb9e4a3c
+Actual:    startseq dog swimming along the ocean with bark in its mouth endseq
+Predicted: startseq two dogs running in the water with their long long run in the water below endseq
+180094434_b0f244832d
+Actual:    startseq few younger boys play around fountain endseq
+Predicted: startseq shoeshine man in red shirt is sitting on the grass looking out to another person endseq
+421730441_6b2267fd31
+Actual:    startseq man in black hat standing in front of brick wall and sign endseq
+Predicted: startseq man in robe is bending out of window endseq
+3317073508_7e13565c1b
+Actual:    startseq bunch of people playing soccer endseq
+Predicted: startseq catcher dressed in uniform are playing cricket endseq
+3715469645_6d1dc019b3
+Actual:    startseq two females are standing next to each other and appear to be unexcited endseq
+Predicted: startseq man in black jacket is sitting on bench endseq
+2345984157_724823b1e4
+Actual:    startseq brown dog shakes himself dry endseq
+Predicted: startseq dog is shaking off water in the air to his head endseq
+1119015538_e8e796281e
+Actual:    startseq little tan dog with large ears running through the grass endseq
+Predicted: startseq dog catching tennis ball in its mouth endseq
+3720366614_dfa8fe1088
+Actual:    startseq small black dog is standing on two feet and wearing pink tutu endseq
+Predicted: startseq black and white dog is followed by larger dog on the grass endseq
+2932740428_b15384f389
+Actual:    startseq man doing wheelie on motorcycle endseq
+Predicted: startseq man in blue shirt is abseiling down mountainside with snow endseq
+2847615962_c330bded6e
+Actual:    startseq dog lays on mattress on the porch endseq
+Predicted: startseq two dogs are playing together on the equipment endseq
+3507076266_8b17993fbb
+Actual:    startseq man in brown jacket is leading black shire horse endseq
+Predicted: startseq two dogs racing around track endseq
+3155390408_8e1a81efb2
+Actual:    startseq dog catches ball in its mouth endseq
+Predicted: startseq dog with ice ears closed in pool endseq
+3358558292_6ab14193ed
+Actual:    startseq group of people making different expressions endseq
+Predicted: startseq three people are posing for picture endseq
+754852108_72f80d421f
+Actual:    startseq man with baseball cap and shiny sunglasses looks down while another bald man looks down endseq
+Predicted: startseq man with cast is looking at the camera endseq
+3123463486_f5b36a3624
+Actual:    startseq brown black and white dog runs along on the gravel endseq
+Predicted: startseq dog runs through the grass endseq
+1394368714_3bc7c19969
+Actual:    startseq dog waits as his owner rummages through collection of stuff endseq
+Predicted: startseq man and dog walk through the grass endseq
+1224851143_33bcdd299c
+Actual:    startseq boy eats with spoon endseq
+Predicted: startseq young girl with blonde hair endseq
+2914206497_5e36ac6324
+Actual:    startseq race cars muffler catches on fire endseq
+Predicted: startseq man in red shirt and jeans is sitting on bench with pair of native american behind him endseq
+532457586_bddfc5251d
+Actual:    startseq shirtless man with brown and white dog looking at woman in jeans and bikini top who is relaxing on bench endseq
+Predicted: startseq man in black shirt is jogging past large plant booths endseq
+2358554995_54ed3baa83
+Actual:    startseq child is happily playing on the slide endseq
+Predicted: startseq little girl in pink dress and seated his hair washes child up up the grass endseq
+3697359692_8a5cdbe4fe
+Actual:    startseq boy is sitting in car seat in the backseat of car endseq
+Predicted: startseq young boy with blonde hair sitting on the grass endseq
+2683963310_20dcd5e566
+Actual:    startseq baby is in sandpit playing with bucket endseq
+Predicted: startseq young boy with blonde hair sitting on the bed endseq
+2472980433_210ec62874
+Actual:    startseq man doing tricks on motorcycle endseq
+Predicted: startseq man participates in midair watching his bike endseq
+3523874798_9ba2fa46e3
+Actual:    startseq boy in white shirt and green helmet is riding skateboard down some steps endseq
+Predicted: startseq young boy is sitting in water fountain endseq
+3223224391_be50bf4f43
+Actual:    startseq furry dog running on an open field of grass endseq
+Predicted: startseq dog runs through the snow endseq
+3200120942_59cfbb3437
+Actual:    startseq snowboarder is jumping in the air next to the ski lift endseq
+Predicted: startseq man without shirt climbs rock face endseq
+2844641033_dab3715a99
+Actual:    startseq black boy in orange and white trucks on playing in the sand endseq
+Predicted: startseq boy is playing on homemade swing in pool endseq
+498444334_a680d318a1
+Actual:    startseq group of young men clowning around while enjoying beverage endseq
+Predicted: startseq group of people in school european colored stand endseq
+2682382530_f9f8fd1e89
+Actual:    startseq man in black shorts is stretching out his leg endseq
+Predicted: startseq young boy wades in the ocean endseq
+1356796100_b265479721
+Actual:    startseq girl in flowered dress peaking through some leaves endseq
+Predicted: startseq man hooking icicle endseq
+2921094201_2ed70a7963
+Actual:    startseq man sits in an airplane seat holding young girl in his arms surrounded by other passengers endseq
+Predicted: startseq man in black jacket is leaned on the cheek of man in white shirt and white shirt with blonde jacket endseq
+2667015110_1670324a33
+Actual:    startseq child in an orange shirt with book endseq
+Predicted: startseq baby in life hooded jacket holds seat on her face endseq
+2774430374_fee1d793e7
+Actual:    startseq little boy holds bat waiting for the pitch on tiled outdoor area wearing red shirt white shorts and blue flip flops that are too big for him endseq
+Predicted: startseq young boy wades in the ocean endseq
+1131800850_89c7ffd477
+Actual:    startseq brown and white dog stands outside while it snows endseq
+Predicted: startseq dog is running through deep green water with algae endseq
+2644430445_47c985a2ee
+Actual:    startseq girl in red shirt takes picture on phone endseq
+Predicted: startseq man in red shirt is using bag up mini and white bag endseq
+241346508_0b3907a95b
+Actual:    startseq group of football players running down the field endseq
+Predicted: startseq football player in sooners uniform endseq
+3207358897_bfa61fa3c6
+Actual:    startseq an asian girl performs routine with two red flags in square endseq
+Predicted: startseq two individuals play around in the water endseq
+3275704430_a75828048f
+Actual:    startseq person in black covering their face with their hands endseq
+Predicted: startseq man in sailor whites is eating pastry while another man stands alongside her cellphone endseq
+1998457059_c9ac9a1e1a
+Actual:    startseq body boarder is being dumped on the beach by wave whilst other surfers are standing around in the water endseq
+Predicted: startseq surfer is riding surfboard on top of breaking wave endseq
+3310067561_b92017acab
+Actual:    startseq brown dog is sitting on cobbled pavement endseq
+Predicted: startseq dog pulling off two dogs endseq
+3498327617_d2e3db3ee3
+Actual:    startseq dog is fetching stick from lake endseq
+Predicted: startseq surfer is riding surfboard on top of breaking wave endseq
+2518508760_68d8df7365
+Actual:    startseq dog in yellow jersey is running race endseq
+Predicted: startseq two dogs playing in the snow with white ball endseq
+3692892751_f6574e2700
+Actual:    startseq man does trick on his skateboard in front of crowd endseq
+Predicted: startseq two people are seated in line and one is taking picture endseq
+2061144717_5b3a1864f0
+Actual:    startseq man and child stand at the bottom of an outdoor staircase near benches endseq
+Predicted: startseq man in red shirt and stripe walking on rock endseq
+758921886_55a351dd67
+Actual:    startseq girl wearing blue dress is sliding down tube slide endseq
+Predicted: startseq man with cast is looking at the camera endseq
+3468694409_a51571d621
+Actual:    startseq group of people sing and dance at concert endseq
+Predicted: startseq group of people are standing on balcony in front of cabin endseq
+2782433864_5a0c311d87
+Actual:    startseq the three dogs are standing in the sand endseq
+Predicted: startseq two dogs play tug of war with red stick endseq
+2436081047_bca044c1d3
+Actual:    startseq girl dismounts from swing as high as she can and lands on the rubber tiles below endseq
+Predicted: startseq boy in red shirt is in the snow endseq
+2707873672_15e6b5d54b
+Actual:    startseq two boys wearing brown shirts tug at rope on wooden platform endseq
+Predicted: startseq two children are jumping on trampoline endseq
+256085101_2c2617c5d0
+Actual:    startseq dog with its mouth opened endseq
+Predicted: startseq dog is wanting golf bags that is drinking and another person on him endseq
+534875358_6ea30d3091
+Actual:    startseq blonde woman wearing green shirt and blue jeans walks away endseq
+Predicted: startseq man in black jacket is standing in front of restaurant reading and drinking behind endseq
+3542484764_77d8920ec9
+Actual:    startseq man playing cricket his bat pointed to the sky endseq
+Predicted: startseq two men play hockey endseq
+2480850054_de3433b54a
+Actual:    startseq boy is kicking up dust as he runs in the dirt by tree endseq
+Predicted: startseq two children are sitting on bench in front of pumpkins overlooking lake endseq
+3609645320_815c294b65
+Actual:    startseq family poses seated on concrete steps endseq
+Predicted: startseq two men are sitting on bench looking at each other and smile endseq
+539751252_2bd88c456b
+Actual:    startseq toddler is making splash inside blue paddling pool endseq
+Predicted: startseq young boy is splashing through squirts in grassy area of group of pink jacket endseq
+1808370027_2088394eb4
+Actual:    startseq dog swims towards waterfall endseq
+Predicted: startseq man in black and black wetsuit is floating in wave endseq
+464251704_b0f0c4c87a
+Actual:    startseq girl in pink top is swinging with her hair flying everywhere endseq
+Predicted: startseq two people are relaxing in front of an audience looking at the flower showing first and over the camera endseq
+2194286203_5dc620006a
+Actual:    startseq little girl and boy play in the sand on the beach endseq
+Predicted: startseq two young boys are sitting on the grass endseq
+2589241160_3832440850
+Actual:    startseq two dogs are running around on dead grass and sand with green grass in the background endseq
+Predicted: startseq dog runs across the sand endseq
+514990193_2d2422af2c
+Actual:    startseq woman is laying on striped couch on grassy yard in residential neighborhood endseq
+Predicted: startseq two children are sitting on the grass endseq
+2393264648_a280744f97
+Actual:    startseq child on the beach while woman takes pictures nearby endseq
+Predicted: startseq man in red directs park endseq
+241031254_0c6f30e3d1
+Actual:    startseq bearded man in white shirt and black shorts is hiking on woodland path endseq
+Predicted: startseq man in trench coat stands in front of large grassy mountain area endseq
+2431832075_00aa1a4457
+Actual:    startseq girl bouncing on colorful sheet endseq
+Predicted: startseq two children rafting down the beach endseq
+215214751_e913b6ff09
+Actual:    startseq boat with two fishermen sits peacefully on the lake endseq
+Predicted: startseq man is climbing up rock endseq
+2944362789_aebbc22db4
+Actual:    startseq man going skating down slide while two kids look on endseq
+Predicted: startseq surfer is riding surfboard on top of breaking wave endseq
+909191414_1cf5d85821
+Actual:    startseq boy is leaping over blue hose pipe as little girl watches endseq
+Predicted: startseq young boy in pullup is covered in marker ink endseq
+3694093650_547259731e
+Actual:    startseq group of men in period clothing are standing in front of hut endseq
+Predicted: startseq two women are sitting on bench in front of tree endseq
+3301859683_2d5e4b40a3
+Actual:    startseq man skiing down hill endseq
+Predicted: startseq man is climbing large wave endseq
+525863257_053333e612
+Actual:    startseq man fly fishes in large river endseq
+Predicted: startseq dog is leaping into swimming pool while brown dog looks on endseq
+2689001252_e0016c89f0
+Actual:    startseq little girls in swimsuits are laughing endseq
+Predicted: startseq two children are sitting on bench in front of large tree endseq
+2602258549_7401a3cdae
+Actual:    startseq couple in restaurant are holding hands endseq
+Predicted: startseq man in black jacket speaks at the camera endseq
+3168123064_d1983b8f92
+Actual:    startseq person in black wetsuit is surfing in the ocean with wave coming down endseq
+Predicted: startseq surfer is riding surfboard on top of breaking wave endseq
+2715035273_8fc8b1291c
+Actual:    startseq group of women walk down street at night endseq
+Predicted: startseq two men are sitting on bench looking at something and looking through them endseq
+3470951932_27ed74eb0b
+Actual:    startseq boy in baseball uniform runs the bases endseq
+Predicted: startseq two men playing tag kick type smilely frisbee as boat stand in background endseq
+3232470286_903a61ea16
+Actual:    startseq ball is about to enter goal at soccer match endseq
+Predicted: startseq two pilots fight for the ball one team is flapping her get towards him endseq
+880220939_0ef1c37f1f
+Actual:    startseq group of woman in pink dresses walking across crosswalk towards cruisship endseq
+Predicted: startseq group of people are walking endseq
+1425069308_488e5fcf9d
+Actual:    startseq dog on two legs with its mouth opened toward blue ball in the air endseq
+Predicted: startseq man and parent blurry train in front of students endseq
+3149919755_f9272b10b3
+Actual:    startseq black dog is looking at the ball on the beach by the ocean endseq
+Predicted: startseq dog runs through the snow with stick in his mouth endseq
+2646046871_c3a5dbb971
+Actual:    startseq boy in an open hawaiian shirt is making the longhorns symbol with his hand endseq
+Predicted: startseq young boy is jumping into water fountain endseq
+154871781_ae77696b77
+Actual:    startseq boys kicking soccer ball in the grass under tree endseq
+Predicted: startseq two boys are playing with football endseq
+2764178773_d63b502812
+Actual:    startseq bike rider is doing stunt on bicycle over forest endseq
+Predicted: startseq man in blue shirt and white biking snowboarding on mountain endseq
+3642220260_3aa8a52670
+Actual:    startseq black dog on rocky beach endseq
+Predicted: startseq dog runs along the beach edge endseq
+485245061_5a5de43e20
+Actual:    startseq man crouched on snowy peak endseq
+Predicted: startseq snowboarder in midair endseq
+3545586120_283d728a97
+Actual:    startseq the taller man is trying to block the shorter man endseq
+Predicted: startseq young boy in blue shirt and blue jeans runs across the grass endseq
+3375070563_3c290a7991
+Actual:    startseq large grey and white water bird endseq
+Predicted: startseq large bird flying over water endseq
+3613800013_5a54968ab0
+Actual:    startseq brown and white dog is running with its mouth open accross field endseq
+Predicted: startseq two dachshunds one barking from larger colored balls endseq
+2944836001_b38b516286
+Actual:    startseq black dog leaps for ball held by man endseq
+Predicted: startseq man is climbing rock face with his arms stretched be ice of frame endseq
+2902269566_419d9f1d8e
+Actual:    startseq dirt biker leaps through the air endseq
+Predicted: startseq man in red is falling off the side of crowd endseq
+3119875880_22f9129a1c
+Actual:    startseq boy climbs rocks endseq
+Predicted: startseq man sits on bench with his dog outside endseq
+3051384385_c5c850c1f8
+Actual:    startseq boy holding plate over his head endseq
+Predicted: startseq man with pierced tongue shooting asleep on and butt and drinking beer endseq
+2238019823_79318d1f11
+Actual:    startseq man surfs by the golden gate bridge on foggy day endseq
+Predicted: startseq man is waterskiing in lake with large many boats in the background endseq
+326456451_effadbbe49
+Actual:    startseq black dog in the middle of running or leaping endseq
+Predicted: startseq dog is shaking off from slide hose at fly stands nearby endseq
+448658518_eec0b648a6
+Actual:    startseq large man dressed in black on street corner by red brick building endseq
+Predicted: startseq people in strange costumes are photographing vehicle and pointing to the other endseq
+3413571342_b9855795e2
+Actual:    startseq man in colorful shorts is surfing under wave endseq
+Predicted: startseq surfer is riding surfboard on top of breaking wave endseq
+1107246521_d16a476380
+Actual:    startseq black dog jumping to catch rope toy endseq
+Predicted: startseq black dog is jumping up to grab red stick endseq
+3565598162_56044bc2f7
+Actual:    startseq the girls dance to the street musicians endseq
+Predicted: startseq group of people are standing in the doorway of canyon endseq
+3064383768_f6838f57da
+Actual:    startseq man surfing wave endseq
+Predicted: startseq black dog is swimming in lake endseq
+3201427741_3033f5b625
+Actual:    startseq mother is holding child endseq
+Predicted: startseq man with glasses and marker endseq
+3385593926_d3e9c21170
+Actual:    startseq the dogs are in the snow in front of fence endseq
+Predicted: startseq two dogs run through the grass endseq
+2577972703_a22c5f2a87
+Actual:    startseq girl making sad face standing in front of her tricycle endseq
+Predicted: startseq young girl in blue dress tackles the child bead cart endseq
+229862312_1a0ba19dab
+Actual:    startseq brown puppy is laying on its back in the grass endseq
+Predicted: startseq two dogs are fighting in the grass endseq
+2884420269_225d27f242
+Actual:    startseq there is man and boy both standing on one leg with at least one arm sticking out endseq
+Predicted: startseq two girls are walking down the street in the rain endseq
+2657484284_daa07a3a1b
+Actual:    startseq kayak on the river is passing by wire bridge that joins both banks endseq
+Predicted: startseq two people are sitting on rocks looking over each other endseq
+2196107384_361d73a170
+Actual:    startseq man wearing black hat walks along road next to building endseq
+Predicted: startseq two people are sitting on bench looking down gradual by the kitchen endseq
+3458559770_12cf9f134e
+Actual:    startseq biker with blue jacket black pants and white helmet driving on dirt while people watch endseq
+Predicted: startseq man in red and white outfit and helmet is riding his motocross bike up dirt road endseq
+2073964624_52da3a0fc4
+Actual:    startseq woman in pink hat and navy blue coat riding bicycle endseq
+Predicted: startseq man in blue jacket and sunglasses is riding bike endseq
+3436063693_15c8d377a2
+Actual:    startseq brown dog is sitting on the grass wearing blue sports jacket endseq
+Predicted: startseq dog pulling his head while walking along stone floor endseq
+2631300484_be8621d17b
+Actual:    startseq blonde boy stands among people in shady setting with large snake wrapped around his chest endseq
+Predicted: startseq man in sailor whites surrounded by buildings while traffic drives endseq
+2666205903_8d287669e1
+Actual:    startseq child is holding colorful object and overlooking crowd of people while sitting on the shoulders of an older person endseq
+Predicted: startseq man and woman sitting in chairs endseq
+2490768374_45d94fc658
+Actual:    startseq young girl is in teal colored netted skirt and wearing shirt with peace sign endseq
+Predicted: startseq young boy in pink dress peering at the bubble from her face endseq
+3540416981_4e74f08cbb
+Actual:    startseq dog chases stuffed animal attached to string endseq
+Predicted: startseq two dogs bearing their teeth at each other endseq
+3516825206_5750824874
+Actual:    startseq laughing woman leans on the legs of sitting man while lying on bed of pebbles endseq
+Predicted: startseq man in paint and sunglasses sitting in front of tree endseq
+2461616306_3ee7ac1b4b
+Actual:    startseq boy is diving through the air into swimming pool endseq
+Predicted: startseq young boy is splashing through squirts in grassy area of group of pink and yellow tube endseq
+70995350_75d0698839
+Actual:    startseq kite surfer is doing flip over the waves endseq
+Predicted: startseq man in black shirt and glasses is pretending to look into cardboard sign endseq
+1572532018_64c030c974
+Actual:    startseq children playing at the beach endseq
+Predicted: startseq two people are rowing in the water endseq
+3150742439_b8a352e1e0
+Actual:    startseq man in black hoodie watching man in red cap endseq
+Predicted: startseq man in black jacket is sitting on bench endseq
+3115174046_9e96b9ce47
+Actual:    startseq skateboarder casts shadow jumping down stairs endseq
+Predicted: startseq man in checked shirt is standing in front of restaurant with large metal door endseq
+3592968286_b63c81bcd2
+Actual:    startseq man in fancy clothing plays guitar on stage endseq
+Predicted: startseq man in red shirt and sunglasses smiles endseq
+300577375_26cc2773a1
+Actual:    startseq cop stands in front of car on busy street endseq
+Predicted: startseq man and woman sit on bench in front desk store endseq
+2553550034_5901aa9d6c
+Actual:    startseq boy climbing rocky area endseq
+Predicted: startseq man is sitting on platform by large rock formation endseq
+3741827382_71e93298d0
+Actual:    startseq boy in green shirt above something blue endseq
+Predicted: startseq young boy wades along the beach endseq
+54501196_a9ac9d66f2
+Actual:    startseq backpacker in the mountains using his hiking stick to point at glacier endseq
+Predicted: startseq man is climbing up cliff in the middle of the blue sky endseq
+136886677_6026c622eb
+Actual:    startseq large man sits in the back of canoe with another man in front on river endseq
+Predicted: startseq two people are rowing in the water endseq
+3480051754_18e5802558
+Actual:    startseq crowd of dark skinned people standing outside of white tents endseq
+Predicted: startseq group of people are standing on the sidewalk endseq
+2196316998_3b2d63f01f
+Actual:    startseq man grabs the end of set of bagpipes while another man plays endseq
+Predicted: startseq man in fluorecent safety jacket is lying down towards the sky with his jaw endseq
+2966552760_e65b22cd26
+Actual:    startseq child in red shirt is sitting against wall with map while eating endseq
+Predicted: startseq man and woman sitting in chairs endseq
+2450453051_f1d4a78ab4
+Actual:    startseq black and white dog catches flying discs thrown by man endseq
+Predicted: startseq black and white dog is running through tunnel endseq
+3450874870_c4dcf58fb3
+Actual:    startseq man rides ski lift up mountain endseq
+Predicted: startseq man in red shirt rappelling down waterfall with mountain in the background endseq
+3047264346_e24601bfbf
+Actual:    startseq girl and guy dressed up in costumes endseq
+Predicted: startseq man in hat holds microphone endseq
+3506468593_7e41a6d9f1
+Actual:    startseq girl swings on vine over water endseq
+Predicted: startseq boy in red shirt is wading through water tunnel endseq
+2084217208_7bd9bc85e5
+Actual:    startseq person in blue jacket wearing bicycle helmet is riding bike endseq
+Predicted: startseq man in black jacket is standing next to bags on sidewalk endseq
+3072172967_630e9c69d0
+Actual:    startseq player from the white and green highschool team dribbles down court defended by player from the other team endseq
+Predicted: startseq the runner is bending down during match endseq
+3247052319_da8aba1983
+Actual:    startseq man drives an atv down dirt road with power line behind him endseq
+Predicted: startseq man in red shirt is rock climbing attached to rope that is laying in the beach endseq
+3585487286_ef9a8d4c56
+Actual:    startseq two collies are barking as they play on the edge of the ocean endseq
+Predicted: startseq black dog rears out of the ocean to come up in the water endseq
+3584561689_b6eb24dd70
+Actual:    startseq group of boys play basketball together endseq
+Predicted: startseq plane is landing on the track endseq
+300314926_0b2e4b64f5
+Actual:    startseq man gets lots of air time as he wakeboards endseq
+Predicted: startseq surfer is riding surfboard on top of breaking wave endseq
+348380010_33bb0599ef
+Actual:    startseq brown dog is laying on its back on the grass with ball in its mouth endseq
+Predicted: startseq dog in the water endseq
+3627011534_485f667b10
+Actual:    startseq child with pink headband and blue shirt smiling endseq
+Predicted: startseq young girl with blonde hair blowing on the playground equipment endseq
+2224450291_4c133fabe8
+Actual:    startseq man in tropical enviorment holding camera to his face endseq
+Predicted: startseq man in black jacket is sitting on bench with his shoes in front of her sculpture endseq
+700884207_d3ec546494
+Actual:    startseq baby is dressed up in pink gear and staring while an adult holds her steady endseq
+Predicted: startseq man and woman sitting in front of each other overlooking lake endseq
+2351479551_e8820a1ff3
+Actual:    startseq boy wearing blue shorts is doing back flip in the air under tree endseq
+Predicted: startseq boy wearing blue goggles is walking on the slope endseq
+3442242092_e579538d82
+Actual:    startseq couple is walking down the sidewalk endseq
+Predicted: startseq man in black shirt and walking on the sidewalk endseq
+1348304997_afe60a61df
+Actual:    startseq barefoot redheaded girl jumping over rail endseq
+Predicted: startseq boy wearing blue shirt is jumping off from jungle gym endseq
+494921598_af73bda568
+Actual:    startseq child is playing ice hockey endseq
+Predicted: startseq man in red helmet is skiing down steep ice surface endseq
+3602838407_bf13e49243
+Actual:    startseq black dog in water endseq
+Predicted: startseq two poodles play together endseq
+3295680663_af21ea648b
+Actual:    startseq man jumps train cars with his bike endseq
+Predicted: startseq the train is caught at the camera endseq
+2308271254_27fb466eb4
+Actual:    startseq grey dog chasing brown dog in shallow water endseq
+Predicted: startseq two dogs are trotting into pond endseq
+2723477522_d89f5ac62b
+Actual:    startseq big dog chases little dog on the grass endseq
+Predicted: startseq two dogs tied to frisbee one one playing one one the one running both is running on the grass endseq
+3220126881_b0a4f7cccb
+Actual:    startseq three people stand by doorway posing for photograph endseq
+Predicted: startseq two men are sitting at table tables through tree endseq
+2822290399_97c809d43b
+Actual:    startseq small white dog has on leash and is walking next to fence endseq
+Predicted: startseq black dog is chasing another black dog that carrying toy toy in its mouth endseq
+3425835357_204e620a66
+Actual:    startseq boy doing handstand in yellow shirt endseq
+Predicted: startseq young boy is running through water fountain endseq
+1554713437_61b64527dd
+Actual:    startseq big hound dog walking on log in the woods endseq
+Predicted: startseq brown dog is licking his nose endseq
+3572267708_9d8a81d4a4
+Actual:    startseq girls dance in colorful outfits endseq
+Predicted: startseq group of people are watching person dressed in red endseq
+226607225_44d696db6b
+Actual:    startseq green fish is jumping out of water endseq
+Predicted: startseq dog is jumping into water endseq
+2587818583_4aa8e7b174
+Actual:    startseq man pulling small child out of ball pit endseq
+Predicted: startseq two children are playing in the water rainbow is hit behind endseq
+2447284966_d6bbdb4b6e
+Actual:    startseq little boy is holding skinny baseball bat while standing between two rows of blue seats endseq
+Predicted: startseq man in visor and gold vest is in front of crowd endseq
+3214237686_6566b8b52f
+Actual:    startseq lone snowboarder jumping in the air doing trick endseq
+Predicted: startseq man in green shirt and jeans is airborne over ramp with snow top and traffic endseq
+1408958345_68eea9a4e4
+Actual:    startseq girl smiles as she runs across the white sandy beach in her swimsuit endseq
+Predicted: startseq two children are playing in the water have the each other and both endseq
+3658427967_6e2e57458d
+Actual:    startseq boy in swimsuit jumping into water endseq
+Predicted: startseq surfer is riding surfboard on top of breaking wave endseq
+241347760_d44c8d3a01
+Actual:    startseq man is wearing sooners red football shirt and helmet endseq
+Predicted: startseq football player number team is being watched by another and white endseq
+3502343542_f9b46688e5
+Actual:    startseq woman wearing white helmeted looking up as she is calming huge rock wall endseq
+Predicted: startseq man without shirt is rock climbing endseq
+2878272032_fda05ffac7
+Actual:    startseq dog chases ball that has dropped in the water endseq
+Predicted: startseq dog runs through the snow endseq
+493109089_468e105233
+Actual:    startseq little boy in red jacket plays on jungle gym endseq
+Predicted: startseq young boy is jumping into water fountain endseq
+3582742297_1daa29968e
+Actual:    startseq black dog and two brown and white dogs are romping in the mud endseq
+Predicted: startseq dog runs through the grass endseq
+461505235_590102a5bf
+Actual:    startseq man repels down cliff over water endseq
+Predicted: startseq two men draw on floating diving set to ropes endseq
+2309860995_c2e2a0feeb
+Actual:    startseq woman in black overcoat and red hair with man in white walking behind her endseq
+Predicted: startseq man in red shirt and sunglasses smiles endseq
+3396157719_6807d52a81
+Actual:    startseq brown and white dog on trampoline with forest in the background endseq
+Predicted: startseq brown dog is chewing on the wood cone endseq
+488408004_a1e26d4886
+Actual:    startseq child in formal clothing is walking along the edge of stony area that is littered in places endseq
+Predicted: startseq man in black shirt and sunglasses stands in front of large bush endseq
+3439382048_d2e23b2b4c
+Actual:    startseq bald man is attempting to slam dunk basketball in game while people in the stands watch endseq
+Predicted: startseq the goalie in the purple strip is looking down to the player holding football endseq
+3256275785_9c3af57576
+Actual:    startseq man in black shorts is jumping off planks of wood endseq
+Predicted: startseq man in harness and cargo khakis following in the ocean endseq
+2712787899_d85048eb6a
+Actual:    startseq blonde woman in black jeans is sitting on wall examining her nails endseq
+Predicted: startseq boy in red shirt is on unicycle while walking down brick path endseq
+533979933_a95b03323b
+Actual:    startseq boy holding an oar walk through the ocean endseq
+Predicted: startseq two children are climbing on rusty orange and white balls endseq
+3006093003_c211737232
+Actual:    startseq man talking on cellphone is holding blue banner endseq
+Predicted: startseq man in black is holding sign endseq
+244571201_0339d8e8d1
+Actual:    startseq bunch of dogs and kids playing in swimming pool endseq
+Predicted: startseq surfer in the water with gotten surfboard in the pond endseq
+429851331_b248ca01cd
+Actual:    startseq brown dog holding something purple and black in its mouth endseq
+Predicted: startseq dog runs through the grass endseq
+493621130_152bdd4e91
+Actual:    startseq brown dog leaps into the water endseq
+Predicted: startseq dog is running through the snow endseq
+888425986_e4b6c12324
+Actual:    startseq boy is upside down in midair near lake at sunset endseq
+Predicted: startseq man attemping to climb tree in the snow endseq
+2893374123_087f98d58a
+Actual:    startseq blue motorcycle is jumping over some colored barrels endseq
+Predicted: startseq man rides bike while onlookers passing by endseq
+2251747182_6b67a3ab8b
+Actual:    startseq boy playing basketball in gym endseq
+Predicted: startseq the basketball player is slam shooting the basketball endseq
+2229179070_dc8ea8582e
+Actual:    startseq brown dog jumps through three hoops endseq
+Predicted: startseq man in trench coat stands in front of lighthouse covered with folding background endseq
+2228022180_9597b2a458
+Actual:    startseq bunch of asian children on steps endseq
+Predicted: startseq group of happy couples and children are are gathered in front of crowd endseq
+2453971388_76616b6a82
+Actual:    startseq two girls running through pool while water sprays over them endseq
+Predicted: startseq two children play on corn in water endseq
+2813992915_f732cf8539
+Actual:    startseq man is doing tricks on bicycle on ramps in front of crowd endseq
+Predicted: startseq man in red shirt doing tricks on his bike endseq
+2559503010_84f20b3bc9
+Actual:    startseq man stands outside bank selling watermelons endseq
+Predicted: startseq man in blue overalls is sitting on the street reading book endseq
+3605061440_1d08c80a57
+Actual:    startseq children one with stick and six petting dog with blue leash endseq
+Predicted: startseq man sits on the grass with sheep in the sunset endseq
+132489044_3be606baf7
+Actual:    startseq man sleeping with bag on his lap on public transportation endseq
+Predicted: startseq man in black jacket is eating pastry while drinking on the cheek endseq
+3119076670_64b5340530
+Actual:    startseq snowboarder flies in the air endseq
+Predicted: startseq man in trench coat stands on wall looking out of tree endseq
+1262583859_653f1469a9
+Actual:    startseq biker enjoys coffee endseq
+Predicted: startseq man in yellow helmet riding his bike on motorbike endseq
+224369028_b1ac40d1fa
+Actual:    startseq little blonde girl is standing in front of water fountain endseq
+Predicted: startseq two children float football on raft endseq
+3139160252_75109e9e05
+Actual:    startseq three girls are posing for picture beside dresser in front of decorated christmas tree endseq
+Predicted: startseq two young girls are sitting on the sidewalk one drinking and pose endseq
+2600867924_cd502fc911
+Actual:    startseq large brown dog and large black and white dog running together endseq
+Predicted: startseq two dogs run through the grass endseq
+3070011270_390e597783
+Actual:    startseq black and brown dog is walking in the water and looking at the camera endseq
+Predicted: startseq black dog is running through the snow endseq
+2140182410_8e2a06fbda
+Actual:    startseq boy in black winter clothes sits on an inflated sled by mound of snow endseq
+Predicted: startseq man is climbing large fountain endseq
+1311388430_4ab0cd1a1f
+Actual:    startseq person hanging from telephone pole near the mountains endseq
+Predicted: startseq man is wakeboarding on lake rapids endseq
+247637795_fdf26a03cf
+Actual:    startseq man and woman at the waterfront endseq
+Predicted: startseq man in sailor whites talks to his campsite endseq
+3596131692_91b8a05606
+Actual:    startseq children are playing soccer while an adult looks on endseq
+Predicted: startseq two men playing game of soccer game endseq
+3052196390_c59dd24ca8
+Actual:    startseq group of children playing in sprinkler endseq
+Predicted: startseq man in red shirt is climbing large rock outdoors endseq
+2854959952_3991a385ab
+Actual:    startseq one dog leaps to catch softball while another looks on endseq
+Predicted: startseq black and white dog is catching frisbee in his mouth while standing on sand endseq
+3523559027_a65619a34b
+Actual:    startseq formation on big field with people wearing red white and blue endseq
+Predicted: startseq man in black jacket is sitting on bench endseq
+1472882567_33dc14c8b6
+Actual:    startseq group of skiers going up mountain endseq
+Predicted: startseq man screaming at the top of mountain lined the ocean with mountain in the ocean endseq
+1317292658_ba29330a0b
+Actual:    startseq boy enjoys rain shower endseq
+Predicted: startseq young boy in pool endseq
+2054869561_ff723e9eab
+Actual:    startseq black and white dog chases pink frisbee endseq
+Predicted: startseq black and white dog with blue and blue object in its mouth is running on grassy but second grassy ground endseq
+2945036454_280fa5b29f
+Actual:    startseq dog is jumping in the air trying to catch red frisbee endseq
+Predicted: startseq dog is nipping at under his backlegs as plate is carrying dog in the grass endseq
+1446053356_a924b4893f
+Actual:    startseq children participate in sport on green field while in uniforms endseq
+Predicted: startseq two men playing sport in field endseq
+2891617125_f939f604c7
+Actual:    startseq man on motorized bike rides across dirt road endseq
+Predicted: startseq motorcycle racer is riding up the dirt hill on his bicycle endseq
+401079494_562454c4d6
+Actual:    startseq black and gray dog endseq
+Predicted: startseq white poodle is jumping over tuft bowl of tan autumn bridge endseq
+3359551687_68f2f0212a
+Actual:    startseq girl does cartwheel in the street while people watch from the sidewalk endseq
+Predicted: startseq two men play basketball on court endseq
+2103568100_5d018c495b
+Actual:    startseq dog in some water enclosed by rocky ledge endseq
+Predicted: startseq dog is running through the snow endseq
+3541474181_489f19fae7
+Actual:    startseq man snowboards endseq
+Predicted: startseq man belaying down waterfall endseq
+3250695024_93e8ab7305
+Actual:    startseq group of people stand together and look at the camera endseq
+Predicted: startseq two men are sitting at table tables and drinking book endseq
+2197275664_fabcf3424b
+Actual:    startseq child riding scooter indoors endseq
+Predicted: startseq young boy twirls her shoes endseq
+3256043809_47258e0b3e
+Actual:    startseq brown and white dog is sniffing the snow covered ground endseq
+Predicted: startseq two dogs are fighting over plastic bag endseq
+136644343_0e2b423829
+Actual:    startseq boy rides on tire swing endseq
+Predicted: startseq young boy in blue shirt is jumping off the beach endseq
+486917990_72bd4069af
+Actual:    startseq girl is climbing rock wall endseq
+Predicted: startseq man in white shirt climbing cliff cliff endseq
+3217620013_8b17873273
+Actual:    startseq basketball player in red uniform is holding the ball while player in white uniform is trying to block him endseq
+Predicted: startseq two men are playing game hockey game endseq
+2894217628_f1a4153dca
+Actual:    startseq holder and kicker for football team dressed in orange white and black play while onlookers behind them watch endseq
+Predicted: startseq catcher in white uniform is tackling another football player in the other from his teams endseq
+3701291852_373ea46bb6
+Actual:    startseq boy and girl are standing on the edge of lake at sunset endseq
+Predicted: startseq two people are sitting on rocks looking over each other endseq
+3157847991_463e006a28
+Actual:    startseq these men are smoking outside grey building endseq
+Predicted: startseq man in black shirt and sunglasses stands in front of brick wall endseq
+2112921744_92bf706805
+Actual:    startseq dog on green hillside endseq
+Predicted: startseq man in coldweather gear is sitting on bench endseq
+2934359101_cdf57442dc
+Actual:    startseq boxer is being examined in his corner by member of his support team endseq
+Predicted: startseq two children are playing in the snow one falls over them endseq
+542317719_ed4dd95dc2
+Actual:    startseq boy in an orange jacket climbes through play tunnel endseq
+Predicted: startseq young boy with blonde hair is wading on the beach endseq
+3323988406_e3c8fce690
+Actual:    startseq lone skateboarder jumping huge skateboarding ramp endseq
+Predicted: startseq man and woman sit on bench with cardboard animal cans endseq
+497791037_93499238d8
+Actual:    startseq boy jumping off swing endseq
+Predicted: startseq little boy in blue shirt and blue sneakers is walking down the road endseq
+533713007_bf9f3e25b4
+Actual:    startseq young boy sits at picnic table and drinks out of small cup endseq
+Predicted: startseq man with golden hair and leather jacket is firing handgun endseq
+3655074079_7df3812bc5
+Actual:    startseq naked cyclist in body paint rides at fair endseq
+Predicted: startseq pleople toward the band at party shop endseq
+3388330419_85d72f7cda
+Actual:    startseq children dancing on hardwood flooring endseq
+Predicted: startseq young girl with blonde hair is carefully painting in the snow endseq
+308487515_7852928f90
+Actual:    startseq bird eating endseq
+Predicted: startseq man in sunglasses and sunglasses is standing on logs looking ahead endseq
+820169182_f5e78d7d19
+Actual:    startseq two babies look up while they are playing in playpen with lot of balls endseq
+Predicted: startseq young boy in pullup is covered in marker ink endseq
+1122944218_8eb3607403
+Actual:    startseq baby in white garment holds flag with crescent moon and star endseq
+Predicted: startseq young girl with blonde hair endseq
+2693425189_47740c22ed
+Actual:    startseq boy holding large foam wand waves it near swimming pool endseq
+Predicted: startseq two children are playing in the snow one sliding at the top of the water endseq
+2308978137_bfe776d541
+Actual:    startseq crowd of boys riding vehicle endseq
+Predicted: startseq group of people are standing in the street with balloon carts endseq
+561940436_64d6fc125d
+Actual:    startseq man and woman sitting on bench endseq
+Predicted: startseq man in fancy pattern skirt jacket and sunglasses sitting on the side of the sidewalk endseq
+3211556865_d1d9becf69
+Actual:    startseq man stands atop mountain with arms extended endseq
+Predicted: startseq man is sitting on the beach edge endseq
+2289068031_fe26990183
+Actual:    startseq motocross rider rides in the air over bar endseq
+Predicted: startseq group of backpackers gathered around blazing on gate endseq
+3245460937_2710a82709
+Actual:    startseq boy jumping to hit tennis ball with his racket endseq
+Predicted: startseq two men play lacrosse in the air at park endseq
+56489627_e1de43de34
+Actual:    startseq boy is leading donkeys on path endseq
+Predicted: startseq man shoots out of his equipment while raising his hands in the air endseq
+3320032226_63390d74a6
+Actual:    startseq child dressed for the cold sits in the snow endseq
+Predicted: startseq man in red helmet is surfboarding endseq
+3348385580_10b53391f9
+Actual:    startseq helmeted boy flies through the air on snowboard endseq
+Predicted: startseq man in blue shirt and black cap suspended on rock endseq
+3325497914_f9014d615b
+Actual:    startseq an older asian lady holding the hand of little asian girl endseq
+Predicted: startseq two girls are sitting on couch outside of brick building endseq
+3641022607_e7a5455d6c
+Actual:    startseq kite surfer begins to fall in the ocean endseq
+Predicted: startseq two children wakeboarding into pool in the ocean endseq
